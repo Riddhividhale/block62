@@ -1,0 +1,42 @@
+<html>
+<head>
+<title> C-63</title>    
+<link href="style.css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css"> 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"> </script> 
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"> </script>   
+</head>
+<body>
+<div class="container">
+<h1> click on the games to expolre </h1>
+<div id="mycarousel" class="carousel slide">
+<div class="carousel-inner">
+<div class="item active">
+<center>
+<img src="" class="img-responsive">    
+</a>
+<div class="carousel-content">
+<p>bird and the wisard</p>    
+</div>
+</center>    
+</div> 
+    
+<div class="item">
+<center>
+<img src="" class="img-responsive">    
+</a>
+<div class="carousel-content">
+<p>bird and the wisard</p>    
+</div>
+</center>    
+</div>
+
+</div> 
+    <a class="left carousel-control" href="#mycarousel" data-slide="prev"> <span class="glyphicon glyphicon-chevron-left"></span></a>
+    <a class="right carousel-control" href="#mycarousel" data-slide="next"> <span class="glyphicon glyphicon-chevron-right"></span></a>
+</div>
+</div>    
+     
+</body>
+
+</html>
